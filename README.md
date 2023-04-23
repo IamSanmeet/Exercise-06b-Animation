@@ -1,20 +1,26 @@
- Exercise-02a-Bullets-and-Asteroids
+# Exercise-06b-Animation
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Godot.
+An opportunity to play with animating 3D humanoid characters
 
 ## Implementation
 
-Created using [Godot 3.5.1](https://godotengine.org/download)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+Built using Blender 3.5, Godot 3.5
 
 ## References
-None
+ - [Kenney.nl Animation Characters](https://kenney.nl/assets/animated-characters-2)
+ - [Rain v2.0 Blender model](https://cloud.blender.org/p/characters/5f04a68bb5f1a2612f7b29da)
+ - [Godot ThirdPerson Player Animation](https://youtu.be/msZw59Iln74)
 
 ## Future Development
+
 None
 
-## Created by
-Sanmeet singh
+## Extra Credit
+
+None
+
+## Created by 
+
+Jason Francis
